@@ -12,7 +12,7 @@ from langdetect import detect
 
 
 # Initialize OpenAI client with API key
-client = OpenAI(api_key='openai key')
+client = OpenAI(api_key='you API key')
 supported_languages ={
     'en':'en',
 }
